@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft Sim", "Minecraft Sim\Minecraft Sim\Minecraft Sim.csproj", "{75C0C357-8D1A-47AD-ACDF-5720920E38D4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Minecraft SimContent", "Minecraft Sim\Minecraft SimContent\Minecraft SimContent.contentproj", "{B1A609FA-50BA-4877-85C2-60B8EB7D8923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C0C357-8D1A-47AD-ACDF-5720920E38D4}.Debug|x86.ActiveCfg = Debug|x86
+		{75C0C357-8D1A-47AD-ACDF-5720920E38D4}.Debug|x86.Build.0 = Debug|x86
+		{75C0C357-8D1A-47AD-ACDF-5720920E38D4}.Release|x86.ActiveCfg = Release|x86
+		{75C0C357-8D1A-47AD-ACDF-5720920E38D4}.Release|x86.Build.0 = Release|x86
+		{B1A609FA-50BA-4877-85C2-60B8EB7D8923}.Debug|x86.ActiveCfg = Debug|x86
+		{B1A609FA-50BA-4877-85C2-60B8EB7D8923}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
